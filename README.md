@@ -1,6 +1,6 @@
 # Cellular Automata
 
-A simple study of emergent behavious using cellular automata. Operates on the basic 3/2 rule.
+A simple study of emergent behaviour using cellular automata. Operates on the basic 3/2 rule.
 The code is also segmented into header and .cpp files instead of everything being in the main.cpp
 
 
